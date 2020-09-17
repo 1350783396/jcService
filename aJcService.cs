@@ -86,7 +86,7 @@ namespace JcService
                             }
                             else
                             {
-                                WriteLogs(1, myData.msg);
+                                WriteLogs(1, $"竞品{item}-{myData.msg}");
                             }
                             Thread.Sleep(3000);
                         }

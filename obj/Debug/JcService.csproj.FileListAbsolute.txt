@@ -9,3 +9,4 @@ D:\windosService\JcService\obj\Debug\JcService.pdb
 D:\windosService\JcService\bin\Debug\Newtonsoft.Json.dll
 D:\windosService\JcService\bin\Debug\Newtonsoft.Json.xml
 D:\windosService\JcService\obj\Debug\JcService.csproj.CopyComplete
+D:\windosService\JcService\obj\Debug\JcService.csprojAssemblyReference.cache
