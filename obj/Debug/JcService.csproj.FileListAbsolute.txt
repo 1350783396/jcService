@@ -1,0 +1,11 @@
+D:\windosService\JcService\bin\Debug\JcService.exe.config
+D:\windosService\JcService\bin\Debug\JcService.exe
+D:\windosService\JcService\bin\Debug\JcService.pdb
+D:\windosService\JcService\obj\Debug\JcService.ProjectInstaller.resources
+D:\windosService\JcService\obj\Debug\JcService.csproj.GenerateResource.cache
+D:\windosService\JcService\obj\Debug\JcService.csproj.CoreCompileInputs.cache
+D:\windosService\JcService\obj\Debug\JcService.exe
+D:\windosService\JcService\obj\Debug\JcService.pdb
+D:\windosService\JcService\bin\Debug\Newtonsoft.Json.dll
+D:\windosService\JcService\bin\Debug\Newtonsoft.Json.xml
+D:\windosService\JcService\obj\Debug\JcService.csproj.CopyComplete
